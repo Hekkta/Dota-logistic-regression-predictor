@@ -1,4 +1,4 @@
-# Dota_predictor_logistic_regression
+# Dota predictor using ELO and logistic regresion
 Dota is a particularly tough game to predict the outcomes for given the fast turnover of players in teams and the constant patch changes.
 
 We explore a dataset of 5000 professional matches from datdota.com and use their elo rankings for the teams from the start date of the matches.
